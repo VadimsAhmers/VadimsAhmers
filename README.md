@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @VadimsAhmers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python / Machine Learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python / Machine Learning
 
 <!---
 VadimsAhmers/VadimsAhmers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
