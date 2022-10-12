@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VadimsAhmers
+- 👋 Hi, my name is Vadim
 - 🎓 I am currently studying at ITMO University (St.Petersburg, Russia).
 - 🌱 I’m currently learning Python / Machine Learning
 
